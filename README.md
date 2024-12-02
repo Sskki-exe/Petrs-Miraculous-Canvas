@@ -3,4 +3,4 @@ Petr's Miracle, also called "the Petr–Douglas–Neumann theorem" is a geometri
   
 This is a response to [Mathologer's Petr's Miracle Programming Challenge](https://youtu.be/WLAW5yz5O3E?si=bkrz9rC9_a5rBA_D). Please watch this video for an explanation of the theorem.  
   
-Available in browser [here](https://sskki-exe.github.io/Petrs-Miraclous-Canvas/).
+Available in browser [here](https://sskki-exe.github.io/Petrs-Miraculous-Canvas/).
